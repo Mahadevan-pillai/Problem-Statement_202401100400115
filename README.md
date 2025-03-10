@@ -1,0 +1,1 @@
+In many real-world applications such as video games, robotics, GPS navigation, and network routing, determining the most efficient path between two points while avoiding obstacles is a fundamental challenge. Traditional search algorithms, such as Dijkstra’s algorithm or breadth-first search (BFS), may be computationally expensive or inefficient in large or complex environments.
